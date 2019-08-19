@@ -1,0 +1,10 @@
+#canvas {
+    left: 0;
+    /* position: absolute; */
+    /* z-index: 3; */
+}
+#bigcanvas {
+    border: 8px dashed black;
+    position: absolute;
+    /* z-index: 1; */
+}
